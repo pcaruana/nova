@@ -8,7 +8,7 @@ anyjson>=0.3.3
 argparse
 boto>=2.32.1
 decorator>=3.4.0
-eventlet>=0.15.2
+eventlet>=0.40.3
 Jinja2>=2.6  # BSD License (3 clause)
 keystonemiddleware>=1.0.0
 kombu>=2.5.0
